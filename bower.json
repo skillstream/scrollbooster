@@ -1,0 +1,26 @@
+{
+  "name": "scrollbooster",
+  "description": "Enjoyable content drag-to-scroll library",
+  "version": "1.1.1",
+  "main": "dist/scrollbooster.js",
+  "authors": [
+    "Ilya Shubin <pixelwake@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "drag",
+    "draggable",
+    "scroll",
+    "scrollable",
+    "UI",
+    "microlibrary"
+  ],
+  "homepage": "https://ilyashubin.github.io/scrollbooster/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
